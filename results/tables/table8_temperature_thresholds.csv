@@ -1,0 +1,5 @@
+Model,Geometry,Nominal dT (K),Quantile dT (K),CVaR dT (K),Quantile threshold,CVaR threshold
+Reference,Slab,0.556,0.608,0.660,82.2,75.7
+Reference,Sphere,1.027,1.195,1.338,41.8,37.4
+Within-tissue,Slab,0.556,0.608,0.654,82.2,76.4
+Within-tissue,Sphere,1.027,1.173,1.236,42.6,40.5

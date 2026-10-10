@@ -1,0 +1,99 @@
+{
+  "slab_solver": {
+    "0.9 GHz": {
+      "max_rel_diff": 2.6106003492225214e-15,
+      "power_balance_rel_error": 5.975844938131041e-16
+    },
+    "2.45 GHz": {
+      "max_rel_diff": 3.042552487790379e-15,
+      "power_balance_rel_error": 8.530603926257389e-16
+    },
+    "5.8 GHz": {
+      "max_rel_diff": 7.011161294646196e-14,
+      "power_balance_rel_error": 1.2770904921736077e-16
+    }
+  },
+  "sphere_absorption_balance": {
+    "0.9 GHz": 3.842599358920252e-15,
+    "2.45 GHz": 1.9497097641363854e-15,
+    "5.8 GHz": 4.239209766055251e-15
+  },
+  "thermal_3d_vs_radial": {
+    "radial_peak_dT": 1.0148183933470847,
+    "voxel3d_symmetric_peak_dT": 0.9944999528455224,
+    "rel_diff_pct": -2.0021750329679966,
+    "voxel3d_true_peak_dT": 1.027262082214522,
+    "true_source_ratio": 1.0329433191779032
+  },
+  "nominal_dielectric": {
+    "0.9 GHz": {
+      "skin_dry": {
+        "epsilon_r": 41.405391804764214,
+        "sigma": 0.8667416724819019
+      },
+      "fat_not_infiltrated": {
+        "epsilon_r": 5.461917613024294,
+        "sigma": 0.05104231979468618
+      },
+      "muscle": {
+        "epsilon_r": 55.03230209069941,
+        "sigma": 0.9428911265060972
+      },
+      "bone_cortical": {
+        "epsilon_r": 12.453710612563205,
+        "sigma": 0.14330438483120528
+      }
+    },
+    "2.45 GHz": {
+      "skin_dry": {
+        "epsilon_r": 38.00708782840373,
+        "sigma": 1.4638102571274778
+      },
+      "fat_not_infiltrated": {
+        "epsilon_r": 5.280037710205398,
+        "sigma": 0.1045288402844899
+      },
+      "muscle": {
+        "epsilon_r": 52.73082090694891,
+        "sigma": 1.7383886044379657
+      },
+      "bone_cortical": {
+        "epsilon_r": 11.381226201942223,
+        "sigma": 0.3942767801117285
+      }
+    },
+    "5.8 GHz": {
+      "skin_dry": {
+        "epsilon_r": 35.11594511818157,
+        "sigma": 3.715882428932982
+      },
+      "fat_not_infiltrated": {
+        "epsilon_r": 4.9547673791112254,
+        "sigma": 0.29316053741606907
+      },
+      "muscle": {
+        "epsilon_r": 48.48875927418623,
+        "sigma": 4.960054713051814
+      },
+      "bone_cortical": {
+        "epsilon_r": 9.674930177350095,
+        "sigma": 1.154314953296846
+      }
+    }
+  },
+  "grid_relative_range_pct_four_finest": {
+    "0.9 GHz": 2.2881185050480513,
+    "2.45 GHz": 6.108536267035539,
+    "5.8 GHz": 8.255951876216695
+  },
+  "config": {
+    "n_sar": 2000,
+    "n_temp": 1000,
+    "voxel_m": 0.002,
+    "splits": 200,
+    "seed": 20260711,
+    "temp_frequencies": [
+      2450000000.0
+    ]
+  }
+}

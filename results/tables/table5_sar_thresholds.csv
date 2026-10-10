@@ -1,0 +1,13 @@
+Model,Frequency (GHz),Geometry,Nominal,Quantile,Tolerance,CVaR,Cantelli
+Reference,0.9,Slab,158.6,99.6,98.5,94.4,65.1
+Reference,0.9,Sphere,41.6,27.3,26.4,24.1,18.2
+Reference,2.45,Slab,62.9,54.4,54.1,52.7,37.5
+Reference,2.45,Sphere,26.2,19.5,19.2,18.0,13.4
+Reference,5.8,Slab,162.5,80.4,78.9,75.5,49.9
+Reference,5.8,Sphere,107.6,52.9,52.5,50.9,32.3
+Within-tissue,0.9,Slab,158.6,148.2,147.8,146.2,133.4
+Within-tissue,0.9,Sphere,41.6,36.2,36.1,35.7,29.7
+Within-tissue,2.45,Slab,62.9,59.9,59.8,59.4,55.0
+Within-tissue,2.45,Sphere,26.2,24.8,24.7,24.5,22.3
+Within-tissue,5.8,Slab,162.5,148.3,147.9,146.9,129.1
+Within-tissue,5.8,Sphere,107.6,99.8,99.5,98.5,86.0

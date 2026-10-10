@@ -1,0 +1,5 @@
+Tissue,0.9 GHz eps_r,0.9 GHz sigma (S/m),2.45 GHz eps_r,2.45 GHz sigma (S/m),5.8 GHz eps_r,5.8 GHz sigma (S/m)
+Dry skin,41.41,0.867,38.01,1.464,35.12,3.716
+Fat (not infiltrated),5.46,0.051,5.28,0.105,4.95,0.293
+Muscle,55.03,0.943,52.73,1.738,48.49,4.960
+Cortical bone,12.45,0.143,11.38,0.394,9.67,1.154
