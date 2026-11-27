@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "RF_Dosimetry reproduction package"
+abstract: "Python code, endpoint samples and result files for the article Radiofrequency Exposure Thresholds from Statistical Upper Bounds under Uncertain Tissue Properties, and the threshold calculation for endpoint samples supplied by the user."
+type: software
+authors:
+  - family-names: "Al Bataineh"
+    given-names: "Ali"
+    orcid: "https://orcid.org/0000-0001-9530-7950"
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, United Arab Emirates"
+  - family-names: "AlZaabi"
+    given-names: "Fatima"
+  - family-names: "Alkaabi"
+    given-names: "Nouf"
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, United Arab Emirates"
+repository-code: "https://github.com/aalbata/RF_Dosimetry"
+license: MIT
