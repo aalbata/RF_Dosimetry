@@ -1,0 +1,50 @@
+{
+  "by_frequency": {
+    "0.9 GHz": {
+      "spacing_mm": 1.0,
+      "cells_per_axis": 114,
+      "steps_per_period": 583,
+      "periods": 13,
+      "absorbed_power_fdtd_W": 0.12779544711627744,
+      "absorbed_power_mie_W": 0.12662201026570824,
+      "peak_10g_fdtd": 2.469249092984055,
+      "peak_10g_mie": 2.417881804498188,
+      "local_sar_rel_rms": 0.10168017905336231
+    },
+    "2.45 GHz": {
+      "spacing_mm": 1.0,
+      "cells_per_axis": 114,
+      "steps_per_period": 215,
+      "periods": 13,
+      "absorbed_power_fdtd_W": 0.26109754575239813,
+      "absorbed_power_mie_W": 0.25760401519849474,
+      "peak_10g_fdtd": 3.94426698320461,
+      "peak_10g_mie": 3.9351095063506683,
+      "local_sar_rel_rms": 0.2567154965865814
+    },
+    "5.8 GHz": {
+      "spacing_mm": 0.5,
+      "cells_per_axis": 204,
+      "steps_per_period": 181,
+      "periods": 13,
+      "absorbed_power_fdtd_W": 0.075407667403719,
+      "absorbed_power_mie_W": 0.0740487454370253,
+      "peak_10g_fdtd": 0.9146873117608175,
+      "peak_10g_mie": 0.9052782048420612,
+      "local_sar_rel_rms": 0.2665892717139585
+    }
+  },
+  "absorbing_layer_distance": {
+    "frequency": "2.45 GHz",
+    "spacing_mm": 2.5,
+    "margins_mm": [
+      15.0,
+      30.0
+    ],
+    "absorbed_power_W": [
+      0.25880105017827815,
+      0.25879849844647673
+    ],
+    "rel_change_pct": 0.0009859820119140217
+  }
+}
