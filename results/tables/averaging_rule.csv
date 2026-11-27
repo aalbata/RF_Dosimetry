@@ -1,0 +1,14 @@
+Variant,0.9 GHz,2.45 GHz,5.8 GHz
+"2 mm, face-centered cubes added",0.2,0.4,0.0
+"2 mm, no volume outside tissue",0.0,0.0,−58.7
+"2 mm, at most 5% outside tissue",0.0,0.0,−9.7
+"2 mm, at most 20% outside tissue",0.0,0.0,6.1
+"0.5 mm, face-centered cubes added",0.0,0.0,0.0
+"0.5 mm, no volume outside tissue",0.0,0.0,−57.6
+"0.5 mm, at most 5% outside tissue",0.0,0.0,−6.5
+"0.5 mm, at most 20% outside tissue",0.0,0.0,12.4
+"1 mm versus 2 mm, ratio of peak SAR (mean)",1.005,1.014,1.008
+"1 mm versus 2 mm, ratio of peak SAR (SD)",0.003,0.014,0.027
+"1 mm versus 2 mm, empirical quantile threshold change (%)",−0.3,−2.1,2.3
+"1 mm versus 2 mm, CVaR threshold change (%)",−0.5,−2.2,2.1
+"1 mm versus 2 mm, Cantelli threshold change (%)",−0.5,−2.8,2.6

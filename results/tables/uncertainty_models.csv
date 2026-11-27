@@ -1,0 +1,4 @@
+Frequency,Reference h_eps,Reference h_sigma,Within-tissue h,Copula correlation
+0.9 GHz,0.800,1.108,0.095,0.459
+2.45 GHz,0.762,0.874,0.095,0.803
+5.8 GHz,0.815,0.867,0.095,0.938

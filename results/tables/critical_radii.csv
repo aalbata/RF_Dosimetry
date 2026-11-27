@@ -1,0 +1,13 @@
+Model,Frequency (GHz),Geometry,Local RL (%),Whole-body RL (%),Sampling W1 (%),Largest variant W1 (%)
+Reference,0.9,Slab,31.0,167.8,0.8,8.6
+Reference,0.9,Sphere,1.7,37.6,0.9,4.6
+Reference,2.45,Slab,1.9,25.5,0.4,5.3
+Reference,2.45,Sphere,none,5.8,0.7,5.4
+Reference,5.8,Slab,9.5,70.5,1.2,10.9
+Reference,5.8,Sphere,2.9,43.2,1.2,11.1
+Within-tissue,0.9,Slab,34.0,170.8,0.1,0.6
+Within-tissue,0.9,Sphere,4.5,40.4,0.2,2.1
+Within-tissue,2.45,Slab,2.6,26.2,0.1,0.3
+Within-tissue,2.45,Sphere,none,7.7,0.1,0.7
+Within-tissue,5.8,Slab,14.8,75.7,0.1,1.2
+Within-tissue,5.8,Sphere,8.0,48.3,0.2,1.3

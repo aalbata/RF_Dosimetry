@@ -1,0 +1,13 @@
+Model,Frequency (GHz),Geometry,Nominal dT (K),Quantile dT (K),CVaR dT (K),Nominal threshold,Quantile threshold,CVaR threshold,Rank correlation
+Reference,0.9,Slab,0.198,0.302,0.334,252.0,165.3,149.7,0.67
+Reference,0.9,Sphere,0.595,0.784,0.921,84.1,63.8,54.3,0.83
+Reference,2.45,Slab,0.556,0.608,0.660,90.0,82.2,75.7,0.67
+Reference,2.45,Sphere,1.027,1.195,1.338,48.7,41.8,37.4,0.75
+Reference,5.8,Slab,0.268,0.478,0.530,186.3,104.6,94.4,0.94
+Reference,5.8,Sphere,0.326,0.573,0.640,153.2,87.2,78.2,0.92
+Within-tissue,0.9,Slab,0.198,0.241,0.254,252.0,207.3,196.9,0.17
+Within-tissue,0.9,Sphere,0.595,0.705,0.756,84.1,70.9,66.1,0.37
+Within-tissue,2.45,Slab,0.556,0.608,0.654,90.0,82.2,76.4,0.14
+Within-tissue,2.45,Sphere,1.027,1.173,1.236,48.7,42.6,40.5,0.12
+Within-tissue,5.8,Slab,0.268,0.299,0.318,186.3,167.1,157.2,0.40
+Within-tissue,5.8,Sphere,0.326,0.368,0.391,153.2,135.8,127.9,0.37

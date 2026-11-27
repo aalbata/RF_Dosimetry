@@ -1,0 +1,13 @@
+Frequency (GHz),Tissue,eps_r,sigma (S/m)
+0.9,Dry skin,41.41,0.867
+0.9,Fat (not infiltrated),5.46,0.051
+0.9,Muscle,55.03,0.943
+0.9,Cortical bone,12.45,0.143
+2.45,Dry skin,38.01,1.464
+2.45,Fat (not infiltrated),5.28,0.105
+2.45,Muscle,52.73,1.738
+2.45,Cortical bone,11.38,0.394
+5.8,Dry skin,35.12,3.716
+5.8,Fat (not infiltrated),4.95,0.293
+5.8,Muscle,48.49,4.960
+5.8,Cortical bone,9.67,1.154

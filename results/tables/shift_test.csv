@@ -1,0 +1,9 @@
+Model,Transformation,W1 (% nominal),Conformal exceedance (%),Transformed CVaR (W/kg),Share of worst case (%)
+Reference,Scaling by 1.05,4.3,7.8,5.844,8.8
+Reference,Scaling by 1.15,13.2,12.9,6.439,8.8
+Reference,Upper decile scaled by 1.5,7.4,10.0,8.364,49.9
+Reference,Deviations scaled by 1.2,3.0,7.4,5.892,14.6
+Within-tissue,Scaling by 1.05,4.9,31.1,4.292,5.4
+Within-tissue,Scaling by 1.15,14.8,93.7,4.709,5.5
+Within-tissue,Upper decile scaled by 1.5,5.3,10.0,6.136,50.1
+Within-tissue,Deviations scaled by 1.2,0.7,8.0,4.147,11.7
